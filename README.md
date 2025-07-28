@@ -1,3 +1,4 @@
+# Using Tutorials<br>
 -[中文说明](README_CN.md)
 
 -[English Explanation](README.md)
@@ -5,12 +6,12 @@
 -[如何导入/导出记录](导入导出教程.md)
 
 -[Import/Export Tutorial](ImportExportTutorial.md)
-
+## Foreword<br>
 When practicing shooting with AimBotz, I always feel frustrated because once I finish, I can't see if I've made any progress. This really annoys me
 So in a fit of pique, I made a website to track Aimbotz's training results
 
 Click to visit: http://www.cs2mashtr.xyz/
-
+## Usage<br>
 After each round of defeating the specified number of bots, Aimbotz will return the data and information of this practice session in the chat box
 
 <img width="580" height="326" alt="image" src="https://github.com/user-attachments/assets/a2c47158-af9f-4cd6-86bb-a3ded9906c67" />
