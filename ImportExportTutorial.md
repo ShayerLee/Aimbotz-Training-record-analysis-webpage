@@ -20,7 +20,7 @@
 <br>
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/1f2c597b-4dc2-440a-b27b-06164b4fb875" />
 
-You can also download the template: [This is the template](template.elxe)<br>
+You can also download the template: [This is the template](https://github.com/ShayerLee/Aimbotz-Training-record-analysis-webpage/blob/main/template.xlsx))<br>
 
 ## The Aimbotz data corresponding to each parameter is as follows:
 <br>
