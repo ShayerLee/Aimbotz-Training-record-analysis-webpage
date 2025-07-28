@@ -2,6 +2,10 @@
 
 -[English Explanation](README.md)
 
+-[如何导入/导出记录](导入/导出教程.md)
+
+-[Import/Export Tutorial](Import/ExportTutorial.md)
+
 When practicing shooting with AimBotz, I always feel frustrated because once I finish, I can't see if I've made any progress. This really annoys me
 So in a fit of pique, I made a website to track Aimbotz's training results
 
