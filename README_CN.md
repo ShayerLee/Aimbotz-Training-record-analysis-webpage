@@ -2,6 +2,10 @@
 
 -[English Explanation](README.md)
 
+-[如何导入/导出记录](导入/导出教程.md)
+
+-[Import/Export Tutorial](Import/ExportTutorial.md)
+
 在aimbotz练枪的时候总是苦于练完了就练完了，不能查看自己有没有进步，这让我十分恼火
 所以一气之下做了一个网站统计aimbotz的训练成绩
 
