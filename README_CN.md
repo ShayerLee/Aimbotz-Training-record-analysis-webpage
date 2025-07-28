@@ -1,3 +1,4 @@
+# 使用教程
 -[中文说明](README_CN.md)
 
 -[English Explanation](README.md)
@@ -5,12 +6,12 @@
 -[如何导入/导出记录](导入导出教程.md)
 
 -[Import/Export Tutorial](ImportExportTutorial.md)
-
+## 前言<br>
 在aimbotz练枪的时候总是苦于练完了就练完了，不能查看自己有没有进步，这让我十分恼火
 所以一气之下做了一个网站统计aimbotz的训练成绩
 
 点击访问：http://www.cs2mashtr.xyz/
-
+## 使用方式<br>
 每次打完指定数量的bot后，aimbotz都会在聊天框返回一个本次练习的数据与信息
 
 <img width="580" height="326" alt="image" src="https://github.com/user-attachments/assets/a2c47158-af9f-4cd6-86bb-a3ded9906c67" />
