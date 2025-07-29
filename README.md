@@ -1,3 +1,8 @@
+# Update Record
+## Updated on 2025/7/29
+1. Optimize the emergency stop success rate algorithm and emergency stop kill rate algorithm<br>
+2. Added training items for gun settings and kill count settings, and added item modification functionality. Now, item names can be modified. <br>
+3. Modify the background image<br>
 # Using Tutorials<br>
 -[中文说明](README_CN.md)
 
