@@ -2,6 +2,16 @@
 const STORAGE_KEY = 'aimbotz_local_data_tables';
 const PROJECT_SETTINGS_KEY = 'aimbotz_project_settings';
 
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?bdc9a25d71cbcac2f9c05e80de0e0336";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+
 // 项目设置
 let currentProject = {
   name: '',
